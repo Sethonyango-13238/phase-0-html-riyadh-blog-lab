@@ -4,7 +4,7 @@ HEADING
 
 SUB HEAD
 
-`Where A Traditional Past Meets A Modern Future.`
+
 
 IMAGE 1 FILE
 
@@ -20,8 +20,8 @@ SMALLER SUB HEAD
 
 PARAGRAPH 1
 
-`Once a mudbrick waystation along desert trading routes, Riyadh is now one of the wealthiest cities in the world. The country’s political, financial and administrative capital is also a city with a fascinating subtext.`
-
+`Once a mudbrick waystation along desert trading routes,  capital is also a city with a fascinating subtext.`
+The country’s political, financial and administrative 
 SMALLER SUB HEAD
 
 `History`
@@ -40,7 +40,7 @@ IMAGE 2 ALT TEXT
 
 PARAGRAPH 3
 
-`The city is divided into 15 municipal districts, managed by Riyadh Municipality headed by the mayor of Riyadh, and the Riyadh Development Authority, chaired by the governor of Riyadh Province, Khalid bin Bandar Al Saud. The current mayor of Riyadh is Abdullah bin Abdul Rahman Al Mogbel, appointed in 2012. Riyadh has the largest all female university in the world, the Princess Nora bint Abdulrahman University. It has been designated as a Beta World City.`
+`The city is divided into 15 municipal districts, managed by Riyadh Municipality headed by the mayor of Riyadh, and the Riyadh Development Authority, chaired by the governor of Riyadh Province, Khalid bin Bandar Al Saud. The current mayor of Riyadh is Abdullah bin  the largest all female university in the world, the Princess Nora bint Abdulrahman University. It has been designated as a Beta World City.`
 
 IMAGE 3 FILE
 
